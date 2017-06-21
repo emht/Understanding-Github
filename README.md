@@ -1,7 +1,7 @@
-# Understanding-Github
-This is the repository made by me in the pathway to learn and Understand GITHUB.
+# Understanding Git (Version Control System) and Github
+This is the repository made by me while I was trying to learn and Understand GIT, GITHUB and other related stuff.
 
-So **Hellooo** all *NEW users* AND **WELCOME TO GITHUB!!!!!!!!!!!!**
+So **Hello** all *NEW users* AND **Welcome to Git and Github !**
 >********We will learn many new things here and can Together help to improve each other projects********
 
 ># ENJOY USING GITHUB...............
